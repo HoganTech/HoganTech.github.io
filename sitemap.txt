@@ -1,0 +1,9 @@
+https://hogantech.github.io/2022/10/16/hello-world/
+https://hogantech.github.io/categories/index.html
+https://hogantech.github.io/link/index-1.html
+https://hogantech.github.io/categories/index-1.html
+https://hogantech.github.io/tags/index-1.html
+https://hogantech.github.io/2022/10/16/ReactVernacularMovement01/
+https://hogantech.github.io/link/index.html
+https://hogantech.github.io/tags/index.html
+https://hogantech.github.io/
